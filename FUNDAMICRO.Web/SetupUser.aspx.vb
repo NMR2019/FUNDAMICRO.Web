@@ -1,41 +1,25 @@
-﻿
-Imports System.Data
+﻿Imports System.Data
 Imports System.Data.SqlClient
 
 Public Class SetupUser
     Inherits System.Web.UI.Page
 
-    Private Function HasUsers() As Boolean
-        Const sql As String = "SELECT COUNT(*) FROM Users"
-
-        Using cn As SqlConnection = Database.GetConnection()
-            Using cmd As New SqlCommand(sql, cn)
-                cn.Open()
-                Return Convert.ToInt32(cmd.ExecuteScalar()) > 0
-            End Using
-        End Using
-    End Function
-
     Protected Sub Page_Load(
         sender As Object,
         e As EventArgs) Handles Me.Load
 
-        If HasUsers() Then
-            btnCreate.Enabled = False
-            lblMessage.Text =
-                "Ya existe un usuario. El registro inicial está cerrado."
+        If Not IsPostBack Then
+            lblMessage.Text = ""
+            btnCreate.Enabled = True
         End If
+
     End Sub
 
     Protected Sub btnCreate_Click(
         sender As Object,
-        e As EventArgs)
+        e As EventArgs) Handles btnCreate.Click
 
-        If HasUsers() Then
-            btnCreate.Enabled = False
-            lblMessage.Text = "El registro inicial ya está cerrado."
-            Return
-        End If
+        lblMessage.Text = ""
 
         If String.IsNullOrWhiteSpace(txtFullName.Text) OrElse
            String.IsNullOrWhiteSpace(txtUserName.Text) OrElse
@@ -60,18 +44,26 @@ Public Class SetupUser
             Dim repository As New UserRepository()
 
             repository.CreateUser(
-                txtFullName.Text,
-                txtUserName.Text,
-                txtEmail.Text,
+                txtFullName.Text.Trim(),
+                txtUserName.Text.Trim(),
+                txtEmail.Text.Trim(),
                 txtPassword.Text)
 
-            btnCreate.Enabled = False
             lblMessage.Text =
-                "Administrador creado. Ahora puede iniciar sesión."
+                "Usuario creado correctamente. Puede registrar otro usuario."
+
+            txtFullName.Text = ""
+            txtUserName.Text = ""
+            txtEmail.Text = ""
+            txtPassword.Text = ""
+            txtConfirmPassword.Text = ""
+
+            btnCreate.Enabled = True
 
         Catch ex As Exception
             lblMessage.Text =
-                "No fue posible crear el administrador."
+                "No fue posible crear el usuario. Verifique que el nombre de usuario no esté registrado."
+
         End Try
 
     End Sub

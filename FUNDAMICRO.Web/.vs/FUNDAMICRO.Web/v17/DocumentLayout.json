@@ -3,31 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|c:\\users\\admin\\desktop\\mi_chanc-e\\fundamicro_web\\fundamicro.web\\customerform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|solutionrelative:customerform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|c:\\users\\admin\\desktop\\mi_chanc-e\\fundamicro_web\\fundamicro.web\\setupuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|solutionrelative:setupuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|c:\\users\\admin\\desktop\\mi_chanc-e\\fundamicro_web\\fundamicro.web\\customerform.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\customerform.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|solutionrelative:customerform.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|c:\\users\\admin\\desktop\\mi_chanc-e\\fundamicro_web\\fundamicro.web\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|c:\\users\\admin\\desktop\\mi_chanc-e\\fundamicro_web\\fundamicro.web\\setupuser.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|solutionrelative:setupuser.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|solutionrelative:login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|c:\\users\\admin\\desktop\\mi_chanc-e\\fundamicro_web\\fundamicro.web\\repositories\\auditrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\repositories\\auditrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|solutionrelative:repositories\\auditrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|c:\\users\\admin\\desktop\\mi_chanc-e\\fundamicro_web\\fundamicro.web\\repositories\\userrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\repositories\\userrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|solutionrelative:repositories\\userrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|c:\\users\\admin\\desktop\\mi_chanc-e\\fundamicro_web\\fundamicro.web\\repositories\\customerrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\repositories\\customerrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|solutionrelative:repositories\\customerrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|c:\\users\\admin\\desktop\\mi_chanc-e\\fundamicro_web\\fundamicro.web\\classes\\basepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\classes\\basepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|FUNDAMICRO.Web.vbproj|solutionrelative:classes\\basepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -43,14 +47,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomerForm.aspx",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\CustomerForm.aspx",
-              "RelativeDocumentMoniker": "CustomerForm.aspx",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\CustomerForm.aspx",
-              "RelativeToolTip": "CustomerForm.aspx",
+              "Title": "SetupUser.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\SetupUser.aspx",
+              "RelativeDocumentMoniker": "SetupUser.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\SetupUser.aspx",
+              "RelativeToolTip": "SetupUser.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-23T05:55:51.41Z",
+              "WhenOpened": "2026-10-23T09:07:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SetupUser.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\SetupUser.aspx.vb",
+              "RelativeDocumentMoniker": "SetupUser.aspx.vb",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\SetupUser.aspx.vb",
+              "RelativeToolTip": "SetupUser.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-23T09:07:30.81Z",
               "EditorCaption": ""
             },
             {
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CustomerRepository.vb",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\Repositories\\CustomerRepository.vb",
               "RelativeDocumentMoniker": "Repositories\\CustomerRepository.vb",
@@ -76,12 +93,11 @@
               "RelativeToolTip": "Repositories\\CustomerRepository.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-10-23T05:31:54.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T05:31:54.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AuditRepository.vb",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\Repositories\\AuditRepository.vb",
               "RelativeDocumentMoniker": "Repositories\\AuditRepository.vb",
@@ -89,12 +105,11 @@
               "RelativeToolTip": "Repositories\\AuditRepository.vb",
               "ViewState": "AgIAADgAAAAAAAAAAAAcwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-10-23T05:25:59.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T05:25:59.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BasePage.vb",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\Classes\\BasePage.vb",
               "RelativeDocumentMoniker": "Classes\\BasePage.vb",
@@ -102,12 +117,11 @@
               "RelativeToolTip": "Classes\\BasePage.vb",
               "ViewState": "AgIAAAgAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-10-23T05:25:12.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T05:25:12.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserRepository.vb",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\Repositories\\UserRepository.vb",
               "RelativeDocumentMoniker": "Repositories\\UserRepository.vb",
@@ -115,12 +129,11 @@
               "RelativeToolTip": "Repositories\\UserRepository.vb",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-10-23T05:14:26.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T05:14:26.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.aspx.vb",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Mi_Chanc-e\\FUNDAMICRO_Web\\FUNDAMICRO.Web\\Login.aspx.vb",
               "RelativeDocumentMoniker": "Login.aspx.vb",
@@ -128,8 +141,7 @@
               "RelativeToolTip": "Login.aspx.vb",
               "ViewState": "AgIAABEAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-10-23T05:13:30.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-23T05:13:30.555Z"
             }
           ]
         }

@@ -280,7 +280,7 @@
     </Compile>
     <Compile Include="SetupUser.aspx.vb">
       <DependentUpon>SetupUser.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Site.Master.designer.vb">
       <DependentUpon>Site.Master</DependentUpon>

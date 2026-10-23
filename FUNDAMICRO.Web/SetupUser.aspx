@@ -22,9 +22,25 @@
     <asp:TextBox ID="txtUserName" runat="server" MaxLength="250" />
     <br /><br />
 
-    <asp:Label runat="server" Text="Correo electrónico" />
+    <asp:Label ID="lblEmail" runat="server"
+    AssociatedControlID="txtEmail"
+    Text="Correo electrónico:" />
     <br />
-    <asp:TextBox ID="txtEmail" runat="server" MaxLength="250" />
+
+<asp:TextBox ID="txtEmail" runat="server"
+    MaxLength="250"
+    TextMode="Email"
+    placeholder="usuario@dominio.com" />
+
+<asp:RegularExpressionValidator
+    ID="revEmail"
+    runat="server"
+    ControlToValidate="txtEmail"
+    ValidationExpression="^[^@\s]+@[^@\s]+\.[^@\s]+$"
+    ErrorMessage="Ingrese un correo electrónico válido. Ejemplo: usuario@dominio.com"
+    Display="Dynamic"
+    ForeColor="Red"
+    ValidationGroup="User" />
     <br /><br />
 
     <asp:Label runat="server" Text="Contraseña" />

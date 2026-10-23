@@ -41,6 +41,15 @@ Partial Public Class SetupUser
     Protected WithEvents txtUserName As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
+    '''Control lblEmail.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents lblEmail As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
     '''Control txtEmail.
     '''</summary>
     '''<remarks>
@@ -48,6 +57,15 @@ Partial Public Class SetupUser
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents txtEmail As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''Control revEmail.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents revEmail As Global.System.Web.UI.WebControls.RegularExpressionValidator
 
     '''<summary>
     '''Control txtPassword.
